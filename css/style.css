@@ -1481,6 +1481,6 @@ padding: 0 0em; } }
   height: 220px;
 }
 
-@media screen and (max-width: 768px) .boxfit{
-  height: fit-content;
-}
+@media screen and (max-width: 768px) {
+  .boxfit{
+  height: fit-content;}}
