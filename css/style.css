@@ -1476,3 +1476,8 @@ padding: 0 2.5em; }
 @media screen and (max-width: 768px) {
 .timerow {
 padding: 0 0em; } }
+
+
+@media screen and (max-width: 768px) .boxfit{
+  height: fit-content;
+}
