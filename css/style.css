@@ -426,7 +426,7 @@ position: relative; }
 display: block; }
 @media screen and (max-width: 768px) {
 .colorlib-heading {
-  margin-bottom: 3em; } }
+  margin-bottom: 1em; } }
 
 .heading-meta {
 margin-bottom: 15px;
@@ -1469,3 +1469,10 @@ opacity: 0; }
   padding-bottom: 5px !important;
   border-radius: 10px !important;
 }
+
+.timerow {
+padding: 0 2.5em; }
+
+@media screen and (max-width: 768px) {
+.timerow {
+padding: 0 0em; } }
