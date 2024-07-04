@@ -1477,6 +1477,9 @@ padding: 0 2.5em; }
 .timerow {
 padding: 0 0em; } }
 
+.boxfit{
+  height: 220px;
+}
 
 @media screen and (max-width: 768px) .boxfit{
   height: fit-content;
